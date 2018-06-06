@@ -1,0 +1,241 @@
+WellRestedIntent how well rested I will be if I get {NumberOfHours} hours of sleep
+WellRestedIntent how refreshed I will be if I get {NumberOfHours} hours of sleep
+WellRestedIntent how invigorated I will be if I get {NumberOfHours} hours of sleep
+WellRestedIntent how tired I will be if I get {NumberOfHours} hours of sleep
+WellRestedIntent how weary I will be if I get {NumberOfHours} hours of sleep
+WellRestedIntent how well rested will I be if I get {NumberOfHours} hours of sleep
+WellRestedIntent how refreshed will I be if I get {NumberOfHours} hours of sleep
+WellRestedIntent how invigorated will I be if I get {NumberOfHours} hours of sleep
+WellRestedIntent how tired will I be if I get {NumberOfHours} hours of sleep
+WellRestedIntent how weary will I be if I get {NumberOfHours} hours of sleep
+WellRestedIntent how well rested I will be if I were to get {NumberOfHours} hours of sleep
+WellRestedIntent how refreshed I will be if I were to get {NumberOfHours} hours of sleep
+WellRestedIntent how invigorated I will be if I were to get {NumberOfHours} hours of sleep
+WellRestedIntent how tired I will be if I were to get {NumberOfHours} hours of sleep
+WellRestedIntent how weary I will be if I were to get {NumberOfHours} hours of sleep
+WellRestedIntent how well rested will I be if I were to get {NumberOfHours} hours of sleep
+WellRestedIntent how refreshed will I be if I were to get {NumberOfHours} hours of sleep
+WellRestedIntent how invigorated will I be if I were to get {NumberOfHours} hours of sleep
+WellRestedIntent how tired will I be if I were to get {NumberOfHours} hours of sleep
+WellRestedIntent how weary will I be if I were to get {NumberOfHours} hours of sleep
+WellRestedIntent how well rested I will be assuming I got {NumberOfHours} hours of sleep
+WellRestedIntent how refreshed I will be assuming I got {NumberOfHours} hours of sleep
+WellRestedIntent how invigorated I will be assuming I got {NumberOfHours} hours of sleep
+WellRestedIntent how tired I will be assuming I got {NumberOfHours} hours of sleep
+WellRestedIntent how weary I will be assuming I got {NumberOfHours} hours of sleep
+WellRestedIntent how well rested will I be assuming I got {NumberOfHours} hours of sleep
+WellRestedIntent how refreshed will I be assuming I got {NumberOfHours} hours of sleep
+WellRestedIntent how invigorated will I be assuming I got {NumberOfHours} hours of sleep
+WellRestedIntent how tired will I be assuming I got {NumberOfHours} hours of sleep
+WellRestedIntent how weary will I be assuming I got {NumberOfHours} hours of sleep
+WellRestedIntent how well rested I will be for {NumberOfHours} hours of sleep
+WellRestedIntent how refreshed I will be for {NumberOfHours} hours of sleep
+WellRestedIntent how invigorated I will be for {NumberOfHours} hours of sleep
+WellRestedIntent how tired I will be for {NumberOfHours} hours of sleep
+WellRestedIntent how weary I will be for {NumberOfHours} hours of sleep
+WellRestedIntent how well rested will I be for {NumberOfHours} hours of sleep
+WellRestedIntent how refreshed will I be for {NumberOfHours} hours of sleep
+WellRestedIntent how invigorated will I be for {NumberOfHours} hours of sleep
+WellRestedIntent how tired will I be for {NumberOfHours} hours of sleep
+WellRestedIntent how weary will I be for {NumberOfHours} hours of sleep
+WellRestedIntent how well rested I will be if I get {NumberOfHours} hours of slumber
+WellRestedIntent how refreshed I will be if I get {NumberOfHours} hours of slumber
+WellRestedIntent how invigorated I will be if I get {NumberOfHours} hours of slumber
+WellRestedIntent how tired I will be if I get {NumberOfHours} hours of slumber
+WellRestedIntent how weary I will be if I get {NumberOfHours} hours of slumber
+WellRestedIntent how well rested will I be if I get {NumberOfHours} hours of slumber
+WellRestedIntent how refreshed will I be if I get {NumberOfHours} hours of slumber
+WellRestedIntent how invigorated will I be if I get {NumberOfHours} hours of slumber
+WellRestedIntent how tired will I be if I get {NumberOfHours} hours of slumber
+WellRestedIntent how weary will I be if I get {NumberOfHours} hours of slumber
+WellRestedIntent how well rested I will be if I were to get {NumberOfHours} hours of slumber
+WellRestedIntent how refreshed I will be if I were to get {NumberOfHours} hours of slumber
+WellRestedIntent how invigorated I will be if I were to get {NumberOfHours} hours of slumber
+WellRestedIntent how tired I will be if I were to get {NumberOfHours} hours of slumber
+WellRestedIntent how weary I will be if I were to get {NumberOfHours} hours of slumber
+WellRestedIntent how well rested will I be if I were to get {NumberOfHours} hours of slumber
+WellRestedIntent how refreshed will I be if I were to get {NumberOfHours} hours of slumber
+WellRestedIntent how invigorated will I be if I were to get {NumberOfHours} hours of slumber
+WellRestedIntent how tired will I be if I were to get {NumberOfHours} hours of slumber
+WellRestedIntent how weary will I be if I were to get {NumberOfHours} hours of slumber
+WellRestedIntent how well rested I will be assuming I got {NumberOfHours} hours of slumber
+WellRestedIntent how refreshed I will be assuming I got {NumberOfHours} hours of slumber
+WellRestedIntent how invigorated I will be assuming I got {NumberOfHours} hours of slumber
+WellRestedIntent how tired I will be assuming I got {NumberOfHours} hours of slumber
+WellRestedIntent how weary I will be assuming I got {NumberOfHours} hours of slumber
+WellRestedIntent how well rested will I be assuming I got {NumberOfHours} hours of slumber
+WellRestedIntent how refreshed will I be assuming I got {NumberOfHours} hours of slumber
+WellRestedIntent how invigorated will I be assuming I got {NumberOfHours} hours of slumber
+WellRestedIntent how tired will I be assuming I got {NumberOfHours} hours of slumber
+WellRestedIntent how weary will I be assuming I got {NumberOfHours} hours of slumber
+WellRestedIntent how well rested I will be for {NumberOfHours} hours of slumber
+WellRestedIntent how refreshed I will be for {NumberOfHours} hours of slumber
+WellRestedIntent how invigorated I will be for {NumberOfHours} hours of slumber
+WellRestedIntent how tired I will be for {NumberOfHours} hours of slumber
+WellRestedIntent how weary I will be for {NumberOfHours} hours of slumber
+WellRestedIntent how well rested will I be for {NumberOfHours} hours of slumber
+WellRestedIntent how refreshed will I be for {NumberOfHours} hours of slumber
+WellRestedIntent how invigorated will I be for {NumberOfHours} hours of slumber
+WellRestedIntent how tired will I be for {NumberOfHours} hours of slumber
+WellRestedIntent how weary will I be for {NumberOfHours} hours of slumber
+WellRestedIntent how well rested I will be if I get {NumberOfHours} hours of rest
+WellRestedIntent how refreshed I will be if I get {NumberOfHours} hours of rest
+WellRestedIntent how invigorated I will be if I get {NumberOfHours} hours of rest
+WellRestedIntent how tired I will be if I get {NumberOfHours} hours of rest
+WellRestedIntent how weary I will be if I get {NumberOfHours} hours of rest
+WellRestedIntent how well rested will I be if I get {NumberOfHours} hours of rest
+WellRestedIntent how refreshed will I be if I get {NumberOfHours} hours of rest
+WellRestedIntent how invigorated will I be if I get {NumberOfHours} hours of rest
+WellRestedIntent how tired will I be if I get {NumberOfHours} hours of rest
+WellRestedIntent how weary will I be if I get {NumberOfHours} hours of rest
+WellRestedIntent how well rested I will be if I were to get {NumberOfHours} hours of rest
+WellRestedIntent how refreshed I will be if I were to get {NumberOfHours} hours of rest
+WellRestedIntent how invigorated I will be if I were to get {NumberOfHours} hours of rest
+WellRestedIntent how tired I will be if I were to get {NumberOfHours} hours of rest
+WellRestedIntent how weary I will be if I were to get {NumberOfHours} hours of rest
+WellRestedIntent how well rested will I be if I were to get {NumberOfHours} hours of rest
+WellRestedIntent how refreshed will I be if I were to get {NumberOfHours} hours of rest
+WellRestedIntent how invigorated will I be if I were to get {NumberOfHours} hours of rest
+WellRestedIntent how tired will I be if I were to get {NumberOfHours} hours of rest
+WellRestedIntent how weary will I be if I were to get {NumberOfHours} hours of rest
+WellRestedIntent how well rested I will be assuming I got {NumberOfHours} hours of rest
+WellRestedIntent how refreshed I will be assuming I got {NumberOfHours} hours of rest
+WellRestedIntent how invigorated I will be assuming I got {NumberOfHours} hours of rest
+WellRestedIntent how tired I will be assuming I got {NumberOfHours} hours of rest
+WellRestedIntent how weary I will be assuming I got {NumberOfHours} hours of rest
+WellRestedIntent how well rested will I be assuming I got {NumberOfHours} hours of rest
+WellRestedIntent how refreshed will I be assuming I got {NumberOfHours} hours of rest
+WellRestedIntent how invigorated will I be assuming I got {NumberOfHours} hours of rest
+WellRestedIntent how tired will I be assuming I got {NumberOfHours} hours of rest
+WellRestedIntent how weary will I be assuming I got {NumberOfHours} hours of rest
+WellRestedIntent how well rested I will be for {NumberOfHours} hours of rest
+WellRestedIntent how refreshed I will be for {NumberOfHours} hours of rest
+WellRestedIntent how invigorated I will be for {NumberOfHours} hours of rest
+WellRestedIntent how tired I will be for {NumberOfHours} hours of rest
+WellRestedIntent how weary I will be for {NumberOfHours} hours of rest
+WellRestedIntent how well rested will I be for {NumberOfHours} hours of rest
+WellRestedIntent how refreshed will I be for {NumberOfHours} hours of rest
+WellRestedIntent how invigorated will I be for {NumberOfHours} hours of rest
+WellRestedIntent how tired will I be for {NumberOfHours} hours of rest
+WellRestedIntent how weary will I be for {NumberOfHours} hours of rest
+WellRestedIntent how well rested I will be if I get {NumberOfHours} hours of siesta
+WellRestedIntent how refreshed I will be if I get {NumberOfHours} hours of siesta
+WellRestedIntent how invigorated I will be if I get {NumberOfHours} hours of siesta
+WellRestedIntent how tired I will be if I get {NumberOfHours} hours of siesta
+WellRestedIntent how weary I will be if I get {NumberOfHours} hours of siesta
+WellRestedIntent how well rested will I be if I get {NumberOfHours} hours of siesta
+WellRestedIntent how refreshed will I be if I get {NumberOfHours} hours of siesta
+WellRestedIntent how invigorated will I be if I get {NumberOfHours} hours of siesta
+WellRestedIntent how tired will I be if I get {NumberOfHours} hours of siesta
+WellRestedIntent how weary will I be if I get {NumberOfHours} hours of siesta
+WellRestedIntent how well rested I will be if I were to get {NumberOfHours} hours of siesta
+WellRestedIntent how refreshed I will be if I were to get {NumberOfHours} hours of siesta
+WellRestedIntent how invigorated I will be if I were to get {NumberOfHours} hours of siesta
+WellRestedIntent how tired I will be if I were to get {NumberOfHours} hours of siesta
+WellRestedIntent how weary I will be if I were to get {NumberOfHours} hours of siesta
+WellRestedIntent how well rested will I be if I were to get {NumberOfHours} hours of siesta
+WellRestedIntent how refreshed will I be if I were to get {NumberOfHours} hours of siesta
+WellRestedIntent how invigorated will I be if I were to get {NumberOfHours} hours of siesta
+WellRestedIntent how tired will I be if I were to get {NumberOfHours} hours of siesta
+WellRestedIntent how weary will I be if I were to get {NumberOfHours} hours of siesta
+WellRestedIntent how well rested I will be assuming I got {NumberOfHours} hours of siesta
+WellRestedIntent how refreshed I will be assuming I got {NumberOfHours} hours of siesta
+WellRestedIntent how invigorated I will be assuming I got {NumberOfHours} hours of siesta
+WellRestedIntent how tired I will be assuming I got {NumberOfHours} hours of siesta
+WellRestedIntent how weary I will be assuming I got {NumberOfHours} hours of siesta
+WellRestedIntent how well rested will I be assuming I got {NumberOfHours} hours of siesta
+WellRestedIntent how refreshed will I be assuming I got {NumberOfHours} hours of siesta
+WellRestedIntent how invigorated will I be assuming I got {NumberOfHours} hours of siesta
+WellRestedIntent how tired will I be assuming I got {NumberOfHours} hours of siesta
+WellRestedIntent how weary will I be assuming I got {NumberOfHours} hours of siesta
+WellRestedIntent how well rested I will be for {NumberOfHours} hours of siesta
+WellRestedIntent how refreshed I will be for {NumberOfHours} hours of siesta
+WellRestedIntent how invigorated I will be for {NumberOfHours} hours of siesta
+WellRestedIntent how tired I will be for {NumberOfHours} hours of siesta
+WellRestedIntent how weary I will be for {NumberOfHours} hours of siesta
+WellRestedIntent how well rested will I be for {NumberOfHours} hours of siesta
+WellRestedIntent how refreshed will I be for {NumberOfHours} hours of siesta
+WellRestedIntent how invigorated will I be for {NumberOfHours} hours of siesta
+WellRestedIntent how tired will I be for {NumberOfHours} hours of siesta
+WellRestedIntent how weary will I be for {NumberOfHours} hours of siesta
+SleepQualityIntent last night I slept {PreviousNightQuality} sleep
+SleepQualityIntent the previous night I slept {PreviousNightQuality} sleep
+SleepQualityIntent yesterday I slept {PreviousNightQuality} sleep
+SleepQualityIntent recently I slept {PreviousNightQuality} sleep
+SleepQualityIntent last night I had {PreviousNightQuality} sleep
+SleepQualityIntent the previous night I had {PreviousNightQuality} sleep
+SleepQualityIntent yesterday I had {PreviousNightQuality} sleep
+SleepQualityIntent recently I had {PreviousNightQuality} sleep
+SleepQualityIntent last night I got {PreviousNightQuality} sleep
+SleepQualityIntent the previous night I got {PreviousNightQuality} sleep
+SleepQualityIntent yesterday I got {PreviousNightQuality} sleep
+SleepQualityIntent recently I got {PreviousNightQuality} sleep
+SleepQualityIntent last night I slept {PreviousNightQuality} rest
+SleepQualityIntent the previous night I slept {PreviousNightQuality} rest
+SleepQualityIntent yesterday I slept {PreviousNightQuality} rest
+SleepQualityIntent recently I slept {PreviousNightQuality} rest
+SleepQualityIntent last night I had {PreviousNightQuality} rest
+SleepQualityIntent the previous night I had {PreviousNightQuality} rest
+SleepQualityIntent yesterday I had {PreviousNightQuality} rest
+SleepQualityIntent recently I had {PreviousNightQuality} rest
+SleepQualityIntent last night I got {PreviousNightQuality} rest
+SleepQualityIntent the previous night I got {PreviousNightQuality} rest
+SleepQualityIntent yesterday I got {PreviousNightQuality} rest
+SleepQualityIntent recently I got {PreviousNightQuality} rest
+SleepQualityIntent last night I slept {PreviousNightQuality} 
+SleepQualityIntent the previous night I slept {PreviousNightQuality} 
+SleepQualityIntent yesterday I slept {PreviousNightQuality} 
+SleepQualityIntent recently I slept {PreviousNightQuality} 
+SleepQualityIntent last night I had {PreviousNightQuality} 
+SleepQualityIntent the previous night I had {PreviousNightQuality} 
+SleepQualityIntent yesterday I had {PreviousNightQuality} 
+SleepQualityIntent recently I had {PreviousNightQuality} 
+SleepQualityIntent last night I got {PreviousNightQuality} 
+SleepQualityIntent the previous night I got {PreviousNightQuality} 
+SleepQualityIntent yesterday I got {PreviousNightQuality} 
+SleepQualityIntent recently I got {PreviousNightQuality} 
+SleepQualityIntent I slept {PreviousNightQuality} sleep last night
+SleepQualityIntent I had {PreviousNightQuality} sleep last night
+SleepQualityIntent I got {PreviousNightQuality} sleep last night
+SleepQualityIntent I slept {PreviousNightQuality} rest last night
+SleepQualityIntent I had {PreviousNightQuality} rest last night
+SleepQualityIntent I got {PreviousNightQuality} rest last night
+SleepQualityIntent I slept {PreviousNightQuality}  last night
+SleepQualityIntent I had {PreviousNightQuality}  last night
+SleepQualityIntent I got {PreviousNightQuality}  last night
+SleepQualityIntent I slept {PreviousNightQuality} sleep the previous night
+SleepQualityIntent I had {PreviousNightQuality} sleep the previous night
+SleepQualityIntent I got {PreviousNightQuality} sleep the previous night
+SleepQualityIntent I slept {PreviousNightQuality} rest the previous night
+SleepQualityIntent I had {PreviousNightQuality} rest the previous night
+SleepQualityIntent I got {PreviousNightQuality} rest the previous night
+SleepQualityIntent I slept {PreviousNightQuality}  the previous night
+SleepQualityIntent I had {PreviousNightQuality}  the previous night
+SleepQualityIntent I got {PreviousNightQuality}  the previous night
+SleepQualityIntent I slept {PreviousNightQuality} sleep yesterday
+SleepQualityIntent I had {PreviousNightQuality} sleep yesterday
+SleepQualityIntent I got {PreviousNightQuality} sleep yesterday
+SleepQualityIntent I slept {PreviousNightQuality} rest yesterday
+SleepQualityIntent I had {PreviousNightQuality} rest yesterday
+SleepQualityIntent I got {PreviousNightQuality} rest yesterday
+SleepQualityIntent I slept {PreviousNightQuality}  yesterday
+SleepQualityIntent I had {PreviousNightQuality}  yesterday
+SleepQualityIntent I got {PreviousNightQuality}  yesterday
+SleepQualityIntent I slept {PreviousNightQuality} sleep recently
+SleepQualityIntent I had {PreviousNightQuality} sleep recently
+SleepQualityIntent I got {PreviousNightQuality} sleep recently
+SleepQualityIntent I slept {PreviousNightQuality} rest recently
+SleepQualityIntent I had {PreviousNightQuality} rest recently
+SleepQualityIntent I got {PreviousNightQuality} rest recently
+SleepQualityIntent I slept {PreviousNightQuality}  recently
+SleepQualityIntent I had {PreviousNightQuality}  recently
+SleepQualityIntent I got {PreviousNightQuality}  recently
+SleepQualityIntent I slept {PreviousNightQuality} sleep 
+SleepQualityIntent I had {PreviousNightQuality} sleep 
+SleepQualityIntent I got {PreviousNightQuality} sleep 
+SleepQualityIntent I slept {PreviousNightQuality} rest 
+SleepQualityIntent I had {PreviousNightQuality} rest 
+SleepQualityIntent I got {PreviousNightQuality} rest 
+SleepQualityIntent I slept {PreviousNightQuality}  
+SleepQualityIntent I had {PreviousNightQuality}  
+SleepQualityIntent I got {PreviousNightQuality}  

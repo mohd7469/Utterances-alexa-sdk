@@ -1,0 +1,8 @@
+node_modules
+.idea
+/.idea
+.tmp
+.sass-cache
+bower_components
+/nbproject/private/
+.log
